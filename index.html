@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link type="text/css" rel="stylesheet" href="css/geral/stylesheet.css" />
+  <script src="node_modules/jquery/dist/jquery.min.js"></script>
+  <title>MathSteps Example</title>
+</head>
+
+<body>
+  <div id="pagina" tipo="0">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 box-avatar">
+          <div class="row" id="robo">
+            <img class="cabeca" id="cabeca" src="imgRobo/cabeca/head0001.png" alt="Tutor Head" />
+            <img class="peito" id="peito" src="imgRobo/peito/body0001.png" alt="Tutor Body" />
+            <img class="bracoE" id="bracoE" src="imgRobo/braco/arm0005.png" alt="Tutor Arm" />
+            <img class="bracoD" id="bracoD" src="imgRobo/braco/arm0001.png" alt="Tutor Arm" />
+          </div>
+
+          <div class="balao-de-conversa" hidden>
+            <div class="ponta"></div>
+            <div class="conteudo" id="conteudoBalao">
+              <p>Olá! Este é um balão de conversa. </p>
+            </div>
+          </div>
+          <div class="row">
+            <div id="quadro">
+              <div class="conteudo">
+              </div>
+
+              <div class="acoes">
+                <audio controls autoplay hidden id="Audio1">
+                  <!--<source src="assets/aula/arkanoid/audio/apresentacao.mp3" type="audio/mp3" />-->
+                </audio>
+              </div>
+
+              <div class="conteudoTexto" id="conteudoTexto">
+
+              </div>
+              <ul>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript" src="agentes/visual.js"></script>
+  <script type="text/javascript" src="agentes/pedagogico.js"></script>
+  <script type="text/javascript" src="agentes/core.js"></script>
+
+
+  <script src="index.js"></script>
+
+</body>
+
+</html>

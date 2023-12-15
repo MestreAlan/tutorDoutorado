@@ -1,0 +1,25 @@
+<script type="text/javascript" src="agentes/audioControl.js"></script>
+
+<div class="conteudo">
+    
+</div>
+
+<div class="acoes">
+    <audio controls autoplay hidden id="Audio1">
+        <!--<source src="assets/aula/arkanoid/audio/1_1_1.mp3" type="audio/mp3" />-->
+    </audio>
+</div>
+
+<div class="conteudoTexto">
+    Agora tente fazer sozinho: 
+    <BR><BR>
+        <button class="btn btn-primary" onclick="idAula=atividades_conteudo[0]; chamarAtualizacaoInfo(); abrirPagina('assets/templates/sub_sumario.html'); funcaoLog('Conseguiu'); funcaoLog('Saiu_pagina'); animationValue(1);">Consegui</button>
+    <BR> 
+        <button class="btn btn-primary" onclick="idAula=atividades_conteudo[0]; chamarAtualizacaoInfo(); abrirPagina('assets/templates/sub_sumario.html'); funcaoLog('Fazer_depois'); funcaoLog('Saiu_pagina'); animationValue(1);">Fazer depois</button>
+    <BR> 
+        <button class="btn btn-primary" onclick="idAula=atividades_conteudo[1]; chamarAtualizacaoInfo(); abrirPagina('assets/templates/ajuda_recurso.html'); funcaoLog('Nao_consegui'); funcaoLog('Saiu_pagina'); animationValue(1);">Não consegui</button>        
+</div>
+
+<script>
+	document.getElementsByClassName("conteudo")[0].innerHTML = titulo_conteudo+"</br>";
+</script>

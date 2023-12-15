@@ -1,0 +1,11 @@
+{
+  "script": {
+    "start": "node server"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "jquery": "^3.7.1",
+    "mathsteps": "^0.2.0",
+    "mathsteps-test": "^1.0.2"
+  }
+}

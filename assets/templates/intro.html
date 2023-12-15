@@ -1,0 +1,21 @@
+<script type="text/javascript" src="agentes/audioControl.js"></script>
+
+<div class="conteudo">
+    
+</div>
+
+<div class="acoes">
+    <audio controls autoplay hidden id="Audio1">
+        <!--<source src="assets/aula/arkanoid/audio/1_intro.mp3" type="audio/mp3" />-->
+    </audio>
+    <button class="btn btn-primary" onclick="idAula=atividades_conteudo[0]; chamarAtualizacaoInfo(); abrirPagina('assets/templates/sub_sumario.html'); funcaoLog('AvancarP'); funcaoLog('Saiu_pagina'); animationValue(1);">Continuar</button>
+</div>
+
+<div class="conteudoTexto">
+    
+</div>
+
+<script>
+	document.getElementsByClassName("conteudoTexto")[0].innerHTML = contexto_conteudo+"<BR>";
+	document.getElementsByClassName("conteudo")[0].innerHTML = titulo_conteudo+"</br>";
+</script>

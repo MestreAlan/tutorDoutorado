@@ -1,0 +1,23 @@
+<script type="text/javascript" src="agentes/audioControl.js"></script>
+
+<div class="conteudo">
+    <b>Conheça sua missão!</b>  
+</div>
+
+<div class="acoes">
+    <audio controls autoplay hidden id="Audio1">
+        <!--<source src="assets/aula/arkanoid/audio/abertura.mp3" type="audio/mp3" />-->
+    </audio>
+</div>
+
+<div class="conteudoTexto">
+    <div class="textoLocal"></div>
+    <BR>Assista nosso 
+        <button class="btn btn-primary" onclick="idAula=atividades_conteudo[1]; chamarAtualizacaoInfo(); abrirPagina('assets/templates/aberturaVideo.html'); funcaoLog('Ver_Video_Demo'); funcaoLog('Saiu_pagina'); animationValue(1);">Video</button>
+    <br><br>
+    Já sabe como o jogo funciona e quer ir direto para a implementação dele? 
+    <BR>Clique em 
+        <button class="btn btn-primary" onclick="idAula=atividades_conteudo[0]; chamarAtualizacaoInfo(); abrirPagina('assets/templates/sumario.html'); funcaoLog('Ir_Direto_aula'); funcaoLog('Saiu_pagina'); animationValue(1);">Seguir</button>
+</div>
+
+<script>document.getElementsByClassName("textoLocal")[0].innerHTML = contexto_conteudo;</script>

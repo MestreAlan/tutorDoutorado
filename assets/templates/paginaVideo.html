@@ -1,0 +1,21 @@
+<script type="text/javascript" src="agentes/videoControl.js"></script>
+
+<div class="conteudo">
+    <b>Ap&oacute;s ver o v&iacute;deo, clique em continuar</b>
+</div>
+
+<div class="acoes">
+	<button class="btn btn-primary" onclick="idAula=atividades_conteudo[0]; chamarAtualizacaoInfo(); abrirPagina('assets/templates/recursoInteracao.html'); funcaoLog('AvançarP'); funcaoLog('Saiu_pagina'); animationValue(1);">Continuar</button>
+</div>
+
+<div class="conteudoVideo">
+    <video controls id="Video1"> 
+        <source src="" type="video/mp4">
+		<track kind="subtitles" src="" srclang="en"  default>
+    </video>
+</div>
+
+<script>
+	$("#Video1 > source").attr("src", links_conteudo[0]);
+	$("#Video1 > track").attr("src", links_conteudo[1]);
+</script>

@@ -1,0 +1,17 @@
+<script type="text/javascript" src="agentes/audioControl.js"></script>
+
+<div class="conteudo">
+</div>
+
+<div class="acoes">
+    <audio controls autoplay hidden id="Audio1">
+        <!--<source src="assets/aula/arkanoid/audio/apresentacao.mp3" type="audio/mp3" />-->
+    </audio>
+</div>
+
+<div class="conteudoTexto">
+Para aceitar sua missão, é só clicar em
+    <button class="btn btn-primary" onclick="idAula=atividades_conteudo[0]; chamarAtualizacaoInfo(); abrirPagina('assets/templates/abertura.html'); funcaoLog('Aceitou_missao'); funcaoLog('Saiu_pagina'); animationValue(1);">Aceitar missão</button>
+</div>
+
+<script>document.getElementsByClassName("conteudo")[0].innerHTML = "<b>"+contexto_conteudo+"</b><br/>";</script>

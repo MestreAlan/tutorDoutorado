@@ -1,0 +1,52 @@
+[
+  {
+    "titulo": "Combustível Econômico",
+    "questao": "João encheu o tanque do seu carro com gasolina a um custo de $a(4-6[1]),00 por litro. Ele dirigiu o carro por $b(100-600[100]) km. Sabendo que o carro de João consome a cada 10 km, $c(1-2[1])l, quanto equivale o custo em reais do deslocamento citado?",
+    "formula": "x = ($b /  $c) * $a"
+  },
+  {
+    "titulo": "Idade da Família",
+    "questao": "A soma das idades de Ana, Bruno e Carla é $a(90-120[10]) anos. A idade de Ana é o triplo da idade de Bruno, e a idade de Carla é o dobro da idade de Bruno. Qual é a idade de Carla?",
+    "formula": "(x + 3x + 2x)/2 = $a"
+  },
+  {
+    "titulo": "Salário Mensal",
+    "questao": "Maria ganha $a(1300-1600[100]),00 por mês e economiza $b(100-300[100]),00. Em $c(3-6[1]) meses, quanto Maria economizou?",
+    "formula": "x = $b * $c"
+  },
+  {
+    "titulo": "Bicicleta para Venda",
+    "questao": "Carlos tem uma loja e comprou uma bicicleta por $a(300-800[100]),00 reais e seu valor de venda no primeiro mês após a compra é de 150% do valor da compra. Sabendo também que a cada mês sem concretizar a venda seu valor desvaloriza em $b(20-50[10]),00 reais e que Carlos vendeu a bicicleta $c(3-5[1]) meses após a sua compra, qual o valor que Carlos obteve na venda da bicicleta?",
+    "formula": "x = ($a * 1.5) - ($b * $c)"
+  },
+  {
+    "titulo": "Produção de Laranjas",
+    "questao": "Um fazendeiro colheu $a(800-1000[100]) kg de laranjas e pretende vendê-las por $b(1-3[1]),00 reais/kg. Qual o valor total em reais que o fazendeiro colheu?",
+    "formula": "x = $a * $b"
+  },
+  {
+    "titulo": "Horas de Estudo",
+    "questao": "Um estudante decidiu estudar matemática por uma certa quantidade de horas por dia. Se ele já estudou por $a(2-8[1]) dias, tendo estudado $b(8-16[2]) horas no total, quantas horas ele estuda por dia?",
+    "formula": "x = $b / $a"
+  },
+  {
+    "titulo": "Temperatura em Ascensão",
+    "questao": "A temperatura em uma cidade aumenta em $a(1-2[1]) graus Celsius por hora. Se a temperatura atual é de $b(15-20[1]) graus Celsius, quantas horas levará para atingir $c(25-30[1]) graus Celsius?",
+    "formula": "$c = ($a * x)+ $b"
+  },
+  {
+    "titulo": "Renda Mensal de um Vendedor",
+    "questao": "Um vendedor ganha um salário mensal fixo de $a(1300-1800[50]),00 reais mais uma comissão de $b(20-50[10]),00 reais por cada produto que ele vende. Se ele vendeu $c(10-15[1]) produtos em um mês, qual foi sua renda total no mês citado?",
+    "formula": "x = $a + ($b*$c)"
+  },
+  {
+    "titulo": "Viagem de Carro",
+    "questao": "Ana e Bruno decidem viajar de carro juntos. Ana dirige a $a(60-80[5]) km/h e Bruno dirige a $b(80-120[10]) km/h. Se eles saem ao mesmo tempo e viajam em estradas paralelas, quantos quilômetros de diferença eles estarão após percorrem $c(3-4[1]) horas de viagem?",
+    "formula": "x = ($b * $c)-($a * $c)"
+  },
+  {
+    "titulo": "Comprando Lápis",
+    "questao": "Maria comprou alguns lápis por 0.$a(30-60[5]) reais cada e comprou $b(5-15[1]) lápis. Quanto Maria pagou nos lápis?",
+    "formula": "x = 0.$a * $b"
+  }
+]

@@ -1,0 +1,23 @@
+<script type="text/javascript" src="agentes/audioControl.js"></script>
+
+<div class="conteudo">
+
+</div>
+
+<div class="acoes">
+    <audio controls autoplay hidden id="Audio1">
+        <!--<source src="assets/aula/nave/audio/x_x_2.mp3" type="audio/mp3" />-->
+    </audio>
+</div>
+
+<div class="conteudoTexto">
+    Gostaria de ver o vídeo novamente?
+    <BR><BR>
+        <button class="btn btn-primary" onclick="idAula=atividades_conteudo[0]; chamarAtualizacaoInfo(); abrirPagina('assets/templates/paginaVideo.html'); funcaoLog('Sim_ver_video'); funcaoLog('Saiu_pagina'); animationValue(1);">Sim</button> 
+    <BR> 
+        <button class="btn btn-primary" onclick="idAula=atividades_conteudo[1]; chamarAtualizacaoInfo(); abrirPagina('assets/templates/sub_sumario.html'); funcaoLog('Nao_ver_video'); funcaoLog('Saiu_pagina'); animationValue(1);">Não</button>
+</div>
+
+<script>
+	document.getElementsByClassName("conteudo")[0].innerHTML = titulo_conteudo+"</br>";
+</script>
