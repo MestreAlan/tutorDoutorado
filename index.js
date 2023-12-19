@@ -533,7 +533,7 @@ function gerarPassoQuestoes(questoesGeradas, j) {
     let i = j;
     if (questoesGeradas.length > 1) {
       if (i == 0) {
-        document.getElementById('conteudoTexto').innerHTML = "O problema atual é: " + questoesGeradas[0].original + ". Entre as alternativas a seguir, qual o próximo passo correto? ";
+        document.getElementById('conteudoTexto').innerHTML = "O problema atual é: " + questoesGeradas[0].original + ". Entre as alternativas a seguir, qual o próximo passo correto? (Clique em uma das opções para selecioná-la). ";
         i = i + 1;
         registrarEventoNoLog('Questão:, ' + i + ', Passo atual:, ' + questoesGeradas[0].original);
       } else {
@@ -805,7 +805,7 @@ function gerarPassoQuestoes(questoesGeradas, j) {
     if (questoesGeradas.length > 1) {
       if (i == 0) {
         stepsDiv.innerHTML =
-          "O problema atual é: " + questoesGeradas[0].original + ". A equação a seguir é o próximo passo correto? ";
+          "O problema atual é: " + questoesGeradas[0].original + ". A equação a seguir é o próximo passo correto? (Clique em uma das opções para selecioná-la) ";
         registrarEventoNoLog('Questão:, ' + i + ', Passo atual:, ' + questoesGeradas[0].original);
         i = i + 1;
       } else {
