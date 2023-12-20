@@ -2,7 +2,7 @@
   {
     "titulo": "Combustível Econômico",
     "questao": "João encheu o tanque do seu carro com gasolina a um custo de $a(4-6[1]),00 por litro. Ele dirigiu o carro por $b(100-600[100]) km. Sabendo que o carro de João consome a cada 10 km, $c(1-2[1])l, quanto equivale o custo em reais do deslocamento citado?",
-    "formula": "x = ($b /  $c) * $a"
+    "formula": "x = ($b /  ($c * 10)) * $a"
   },
   {
     "titulo": "Idade da Família",

@@ -149,7 +149,7 @@ app.post('/selecionarQuestoesEMontarProva', (req, res) => {
 
   const questoesSelecionadas = questoesEmbaralhadas.slice(0, numeroQuestoesInput);
 
-  const html = '<h1>Simulado <label id="contadorProva">1</label></h1>' +
+  const html = '<h1>Simulado - Questão: <label id="contadorProva">1</label></h1>' +
     '<form id="equationForm">' +
     '<p><label for="titulo">Título:</label>' +
     '<label id="titulo" name="titulo"> Carregando...</label></p>' +
@@ -214,7 +214,7 @@ app.post('/tutor1', (req, res) => {
 const logFilePath = 'log.json';
 
 app.post('/log', (req, res) => {
-  const { dateTime, text } = req.body;
+  const { dateTime, text, codigo } = req.body;
 
   const networkInterfaces = os.networkInterfaces();
 
@@ -244,7 +244,7 @@ app.post('/log', (req, res) => {
   }
 
   // Adicionar o novo log aos registros
-  logs.push({ ip: clientIP, dateTime, text });
+  logs.push({ codigo: codigo, ip: clientIP, dateTime, text });
 
   // Salvar os registros atualizados de volta no arquivo JSON
   fs.writeFileSync(logFilePath, JSON.stringify(logs, null, 2));
