@@ -1218,7 +1218,14 @@ function submiteTutor(event) {
   const equationInput = document.getElementById('equation');
   const equation = equationInput.value;
   const answerInput = document.getElementById('answer');
-  const answer = answerInput.value;
+  let answer_ = answerInput.value;
+
+  // Remover qualquer ponto utilizado como separador de milhares
+  answer_ = answer_.replace(/\./g, '');
+
+  // Substituir ',' por '.'
+  answer_ = answer_.replace(',', '.');
+  const answer = answer_;
   const stepsDiv = document.getElementById('steps');
 
   if (equation != "" && answer != "") {
