@@ -1,8 +1,60 @@
+let codigoAcessoGlobal = null;
+let questaoAcessoGlobal = "";
+let contadorQuestaoAcessoGlobal = 1;
+
+// Função para gerar um código único de acesso
+function gerarCodigoAcesso() {
+  const timestamp = new Date().getTime();
+  const codigoAleatorio = Math.floor(Math.random() * 10000);
+  return `${timestamp}-${codigoAleatorio}`;
+}
+
+// Função para definir o código de acesso global
+function setCodigoAcesso() {
+  codigoAcessoGlobal = gerarCodigoAcesso();
+}
+
+// Função para obter o código de acesso global
+function getCodigoAcesso() {
+  return codigoAcessoGlobal;
+}
+
+// Função para definir o código de acesso global
+function setQuestaoAcessoGlobal(valor) {
+  questaoAcessoGlobal = valor;
+}
+
+// Função para obter o código de acesso global
+function getQuestaoAcessoGlobal() {
+  return questaoAcessoGlobal;
+}
+
+// Função para definir o código de acesso global
+function setContadorQuestaoAcessoGlobal(valor) {
+  contadorQuestaoAcessoGlobal = valor;
+}
+
+// Função para obter o código de acesso global
+function getContadorQuestaoAcessoGlobal() {
+  return contadorQuestaoAcessoGlobal;
+}
+
+//Antigo////////////////////////
 function registrarEventoNoLog(textoDoEvento) {
+
+  if (!codigoAcessoGlobal) {
+    // Se não foi definido, define o código de acesso
+    setCodigoAcesso();
+  }
+
+  // Obtenha o código de acesso global
+  const codigoAcesso = getCodigoAcesso();
+
   // Crie um objeto contendo informações do evento
   const evento = {
     dateTime: new Date().toLocaleString(), // Data e hora atual
     text: textoDoEvento, // Texto associado ao evento
+    codigo: codigoAcesso,
   };
 
   // Envie o objeto do evento para o servidor
@@ -40,6 +92,7 @@ window.addEventListener("load", function () {
     //('Valor da variável meta:', valorMeta);
 
     let numeroQuestoesInput = 10;
+    setContadorQuestaoAcessoGlobal(1);
     fetch('/selecionarQuestoesEMontarProva', {
       method: 'POST',
       headers: {
@@ -96,11 +149,20 @@ function getHtmlGlobal() {
 }
 
 function montarQuestao() {
+
+  const labelContador = document.getElementById('contadorProva');
+
+  // Altera o valor da label para 2
+  labelContador.innerHTML = getContadorQuestaoAcessoGlobal();
+
   let listaQuestoes = getQuestaoGlobal();
   let novoVetor = [];
   if (listaQuestoes.length > 0) {
+    setContadorQuestaoAcessoGlobal(parseInt(getContadorQuestaoAcessoGlobal()) + 1);
+
     novoVetor.push(listaQuestoes.shift());
   } else {
+    setContadorQuestaoAcessoGlobal(1);
     alert("Prova concluída. Feche esta página ou continue para fazer uma nova prova");
     window.location.reload(true);
   }
@@ -108,6 +170,7 @@ function montarQuestao() {
   const { questao, formula, titulo } = generateVariations(novoVetor[0]);
   document.getElementById('titulo').textContent = titulo;
   document.getElementById('equation').value = formula;
+  setQuestaoAcessoGlobal(questao);
   document.getElementById('problema').textContent = questao;
 }
 
@@ -118,6 +181,7 @@ function gerarProva() {
   container.style.backgroundImage = `url(${"imgRobo/background/sala.jpeg"})`;
 
   const numeroQuestoesInput = document.getElementById('numeroQuetoesProvaGet').value;
+  //setContadorQuestaoAcessoGlobal(numeroQuestoesInput);
   fetch('/selecionarQuestoesEMontarProva', {
     method: 'POST',
     headers: {
@@ -533,12 +597,12 @@ function gerarPassoQuestoes(questoesGeradas, j) {
     let i = j;
     if (questoesGeradas.length > 1) {
       if (i == 0) {
-        document.getElementById('conteudoTexto').innerHTML = "O problema atual é: " + questoesGeradas[0].original + ". Entre as alternativas a seguir, qual o próximo passo correto? (Clique em uma das opções para selecioná-la). ";
+        document.getElementById('conteudoTexto').innerHTML = getQuestaoAcessoGlobal() + "<br><br><br>O problema atual é: " + questoesGeradas[0].original + ". Entre as alternativas a seguir, qual o próximo passo correto? (Clique em uma das opções para selecioná-la). ";
         i = i + 1;
         registrarEventoNoLog('Questão:, ' + i + ', Passo atual:, ' + questoesGeradas[0].original);
       } else {
         const resposta = questoesGeradas[i - 1].find(elemento => elemento.tipo === "Certo");
-        document.getElementById('conteudoTexto').innerHTML = "O passo atual é: " + resposta.resposta + ". Entre as alternativa a seguir, qual o próximo passo correto? ";
+        document.getElementById('conteudoTexto').innerHTML = getQuestaoAcessoGlobal() + "<br><br><br>O passo atual é: " + resposta.resposta + ". Entre as alternativa a seguir, qual o próximo passo correto? ";
         registrarEventoNoLog('Questão:, ' + i + ', Passo atual:, ' + resposta.resposta);
       }
       const stepsDiv = document.getElementById('conteudoTexto');
@@ -572,6 +636,7 @@ function gerarPassoQuestoes(questoesGeradas, j) {
               animation = 3;
               changeAnimation();
               chatDiv.innerHTML = "Parabéns, está correto.";
+              setTimeout(fecharBalao, 3000);
               registrarEventoNoLog('Questão:, ' + i + ', Resposta:, (A), ' + questoesGeradas[i][0].resposta + ', Correto, Em andamento');
               gerarPassoQuestoes(questoesGeradas, i + 1);
             } else {
@@ -623,6 +688,7 @@ function gerarPassoQuestoes(questoesGeradas, j) {
               animation = 3;
               changeAnimation();
               chatDiv.innerHTML = "Parabéns, está correto.";
+              setTimeout(fecharBalao, 3000);
               registrarEventoNoLog('Questão:, ' + i + ', Resposta:, (B), ' + questoesGeradas[i][1].resposta + ', Correto, Em andamento');
               gerarPassoQuestoes(questoesGeradas, i + 1);
             } else {
@@ -674,6 +740,7 @@ function gerarPassoQuestoes(questoesGeradas, j) {
               animation = 3;
               changeAnimation();
               chatDiv.innerHTML = "Parabéns, está correto.";
+              setTimeout(fecharBalao, 3000);
               registrarEventoNoLog('Questão:, ' + i + ', Resposta:, (C), ' + questoesGeradas[i][2].resposta + ', Correto, Em andamento');
               gerarPassoQuestoes(questoesGeradas, i + 1);
             } else {
@@ -725,6 +792,7 @@ function gerarPassoQuestoes(questoesGeradas, j) {
               animation = 3;
               changeAnimation();
               chatDiv.innerHTML = "Parabéns, está correto.";
+              setTimeout(fecharBalao, 3000);
               registrarEventoNoLog('Questão:, ' + i + ', Resposta:, (D), ' + questoesGeradas[i][3].resposta + ', Correto, Em andamento');
               gerarPassoQuestoes(questoesGeradas, i + 1);
             } else {
@@ -776,6 +844,7 @@ function gerarPassoQuestoes(questoesGeradas, j) {
               animation = 3;
               changeAnimation();
               chatDiv.innerHTML = "Parabéns, está correto.";
+              setTimeout(fecharBalao, 3000);
               registrarEventoNoLog('Questão:, ' + i + ', Resposta:, (E), ' + questoesGeradas[i][4].resposta + ', Correto, Em andamento');
               gerarPassoQuestoes(questoesGeradas, i + 1);
             } else {
@@ -805,13 +874,13 @@ function gerarPassoQuestoes(questoesGeradas, j) {
     if (questoesGeradas.length > 1) {
       if (i == 0) {
         stepsDiv.innerHTML =
-          "O problema atual é: " + questoesGeradas[0].original + ". A equação a seguir é o próximo passo correto? (Clique em uma das opções para selecioná-la) ";
+          getQuestaoAcessoGlobal() + "<br><br><br>O problema atual é: " + questoesGeradas[0].original + ". A equação a seguir é o próximo passo correto? (Clique em uma das opções para selecioná-la) ";
         registrarEventoNoLog('Questão:, ' + i + ', Passo atual:, ' + questoesGeradas[0].original);
         i = i + 1;
       } else {
         const resposta = questoesGeradas[i - 1].find(elemento => elemento.tipo === "Certo");
         stepsDiv.innerHTML =
-          "O passo atual é: " + resposta.resposta + ". A equação a seguir é o próximo passo correto? ";
+          getQuestaoAcessoGlobal() + "<br><br><br>O passo atual é: " + resposta.resposta + ". A equação a seguir é o próximo passo correto? ";
         registrarEventoNoLog('Questão:, ' + i + ', Passo atual:, ' + resposta.resposta);
       }
 
@@ -871,9 +940,10 @@ function gerarPassoQuestoes(questoesGeradas, j) {
             animation = 3;
             changeAnimation();
             chatDiv.innerHTML = "Parabéns, está correto.";
+            setTimeout(fecharBalao, 3000);
             registrarEventoNoLog('Questão:, ' + i + ', Resposta:, (CERTO), ' + alternativaAleatoria.resposta + ', Correto, Em andamento');
             setTimeout(function () {
-              fecharBalao();
+              setTimeout(atualizarProximaQuestao, 3000);
               gerarPassoQuestoes(questoesGeradas, i + 1);
             }, 3000);
           } else {
@@ -918,7 +988,7 @@ function gerarPassoQuestoes(questoesGeradas, j) {
           animation = 3;
           changeAnimation();
           chatDiv.innerHTML = "Parabéns, está correto. ";
-          //gerarPassoQuestoes(questoesGeradas, i + 1);
+          setTimeout(fecharBalao, 3000);
           registrarEventoNoLog('Questão:, ' + i + ', Resposta: (ERRADO) ' + alternativaAleatoria.resposta + ' Correto. Em andamento');
           setTimeout(function () {
             fecharBalao();
