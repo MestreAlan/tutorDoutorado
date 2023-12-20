@@ -3890,5 +3890,17 @@
     "ip": "172.31.44.75",
     "dateTime": "20/12/2023, 15:59:25",
     "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703100522124-7192",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:28:42",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703100522124-7192",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:29:56",
+    "text": "Resposta correta. Reiniciando tutor"
   }
 ]
