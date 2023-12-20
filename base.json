@@ -26,7 +26,7 @@
   },
   {
     "titulo": "Horas de Estudo",
-    "questao": "Um estudante decidiu estudar matemática por uma certa quantidade de horas por dia. Se ele já estudou por $a(2-8[1]) dias, tendo estudado $b(8-16[2]) horas no total, quantas horas ele estuda por dia?",
+    "questao": "Um estudante decidiu estudar matemática por uma certa quantidade de horas por dia. Se ele já estudou por $a(2-8[2]) dias, tendo estudado $b(8-16[2]) horas no total, quantas horas ele estuda por dia?",
     "formula": "x = $b / $a"
   },
   {
