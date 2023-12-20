@@ -1220,8 +1220,8 @@ function submiteTutor(event) {
   const answerInput = document.getElementById('answer');
   let answer_ = answerInput.value;
 
-  // Remover qualquer ponto utilizado como separador de milhares
-  answer_ = answer_.replace(/\./g, '');
+  // Remover tudo exceto números, vírgulas e pontos
+  answer_ = answer_.replace(/[^0-9,.]/g, '');
 
   // Substituir ',' por '.'
   answer_ = answer_.replace(',', '.');
