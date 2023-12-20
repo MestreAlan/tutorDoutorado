@@ -105,7 +105,7 @@ app.post('/valid', (req, res) => {
     lista.combinacao.arrayCombinado.forEach(r_passos => {
       const steps = mathsteps.solveEquation(r_passos.expressao);
 
-      let resposta_final = 'x = ?';
+      let resposta_final = 'x = 0';
       steps.forEach(step => {
         resposta_final = step.newEquation.ascii();
       });
