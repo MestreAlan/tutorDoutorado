@@ -37,7 +37,7 @@ app.post('/solve', (req, res) => {
 
   let solutionSteps = [];
   let contador = 1;
-  let resposta_final = 'x = ?';
+  let resposta_final = 'x = 0';
 
   steps.forEach(step => {
     solutionSteps.push({
