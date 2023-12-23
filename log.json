@@ -3902,5 +3902,4307 @@
     "ip": "172.31.44.75",
     "dateTime": "20/12/2023, 16:29:56",
     "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703100522124-7192",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:32:26",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703100522124-7192",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:32:26",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703100767051-4286",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:32:47",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:32:51",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:33:10",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:33:10",
+    "text": "Possível erro identificado no passo:, 1, como:, 29 = x + 19, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:33:10",
+    "text": "Possível erro identificado no passo:, 1, como:, 28 = x + 18, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:33:10",
+    "text": "Possível erro identificado no passo:, 2, como:, x + 18 = 28, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:33:10",
+    "text": "Possível erro identificado no passo:, 3, como:, (x + 19) - 20 = 28 - 19, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:33:10",
+    "text": "Possível erro identificado no passo:, 3, como:, (x + 19) - 19 = 28 - 18, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:33:10",
+    "text": "Possível erro identificado no passo:, 2, como:, x + 19 = 29, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:33:10",
+    "text": "Possível erro identificado no passo:, 3, como:, (x + 18) - 19 = 28 - 19, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:33:10",
+    "text": "Possível erro identificado no passo:, 3, como:, (x + 19) - 19 = 29 - 19, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:33:10",
+    "text": "Possível erro identificado no passo:, 4, como:, x = 29 - 19, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:33:10",
+    "text": "Possível erro identificado no passo:, 4, como:, x = 28 - 18, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:33:10",
+    "text": "Possível erro identificado no passo:, 5, como:, x = 10, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:33:10",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:33:24",
+    "text": "Aceitou usar o tutor para identificar o erro"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:33:24",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:33:24",
+    "text": "O Tutor está criando as questões."
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:33:24",
+    "text": "Formato: questão objetiva."
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:33:24",
+    "text": "Questão:, 1, Passo atual:, 28 = 1x + 19"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:33:44",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:33:44",
+    "text": "Questão:, 1, Resposta:, (C), 28=x+19, Correto, Em andamento"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:33:44",
+    "text": "Formato: questão objetiva."
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:33:44",
+    "text": "Questão:, 2, Passo atual:, 28=x+19"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:33:57",
+    "text": "Questão:, 2, Resposta:, (E), x+19=-28, Incorreta, possível erro:, Troca de operador"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:34:08",
+    "text": "Questão:, 2, Resposta:, (C), x+19=28, Correto, Em andamento"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:34:08",
+    "text": "Formato certo ou errado."
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:34:08",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:34:08",
+    "text": "Questão:, 3, Passo atual:, x+19=28"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:34:19",
+    "text": "Questão:, 3, Resposta:, (CERTO), (x+19)-19=28-19, Correto, Em andamento"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:34:22",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:34:22",
+    "text": "Formato: questão objetiva."
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:34:22",
+    "text": "Questão:, 4, Passo atual:, (x+19)-19=28-19"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:34:46",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:34:46",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:34:55",
+    "text": "Aceitou usar o tutor para identificar o erro"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:34:55",
+    "text": "O Tutor está criando as questões."
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:34:55",
+    "text": "Formato: questão objetiva."
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:34:55",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:34:55",
+    "text": "Questão:, 1, Passo atual:, x = 100 * 5"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:35:05",
+    "text": "Questão:, 1, Resposta:, (C), x=500, Correto, Concluída"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:35:28",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:36:27",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:36:44",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:36:44",
+    "text": "Possível erro identificado no passo:, 1, como:, 2x = 90, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:36:44",
+    "text": "Possível erro identificado no passo:, 1, como:, 4x = 90, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:36:44",
+    "text": "Possível erro identificado no passo:, 2, como:, (8x) / 3 = 90/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:36:44",
+    "text": "Possível erro identificado no passo:, 2, como:, (3x) / 3 = 90/4, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:36:44",
+    "text": "Possível erro identificado no passo:, 1, como:, 8x = 90, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:36:44",
+    "text": "Possível erro identificado no passo:, 2, como:, (2x) / 3 = 90/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:36:44",
+    "text": "Possível erro identificado no passo:, 2, como:, (3x) / 3 = 90/2, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:36:44",
+    "text": "Possível erro identificado no passo:, 2, como:, (4x) / 3 = 90/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:36:44",
+    "text": "Possível erro identificado no passo:, 2, como:, (3x) / 3 = 90/8, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:36:44",
+    "text": "Possível erro identificado no passo:, 3, como:, x = 90/2, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:36:44",
+    "text": "Possível erro identificado no passo:, 3, como:, x = 90/4, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:36:44",
+    "text": "Possível erro identificado no passo:, 3, como:, x = 90/8, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:36:44",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:36:57",
+    "text": "Aceitou usar o tutor para identificar o erro"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:36:57",
+    "text": "O Tutor está criando as questões."
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:36:57",
+    "text": "Formato: questão objetiva."
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:36:57",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:36:57",
+    "text": "Questão:, 1, Passo atual:, (x + 3x + 2x) / 2 = 90"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:37:07",
+    "text": "Questão:, 1, Resposta:, (A), 3x=85, Incorreta, possível erro:, Erro na operação"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:37:30",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:37:30",
+    "text": "Questão:, 1, Resposta:, (B), 3x=90, Correto, Em andamento"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:37:30",
+    "text": "Formato: questão objetiva."
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:37:30",
+    "text": "Questão:, 2, Passo atual:, 3x=90"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:37:42",
+    "text": "Questão:, 2, Resposta:, (B), (3x)/3=90/3, Correto, Em andamento"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:37:42",
+    "text": "Formato: questão objetiva."
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:37:42",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:37:42",
+    "text": "Questão:, 3, Passo atual:, (3x)/3=90/3"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:38:00",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:38:00",
+    "text": "Questão:, 3, Resposta:, (A), x=90/3, Correto, Em andamento"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:38:00",
+    "text": "Formato certo ou errado."
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:38:00",
+    "text": "Questão:, 4, Passo atual:, x=90/3"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:38:05",
+    "text": "Questão:, 4, Resposta: (ERRADO) x=-30 Correto. Em andamento"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:38:08",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:38:08",
+    "text": "Formato: questão objetiva."
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:38:08",
+    "text": "Questão:, 4, Passo atual:, x=90/3"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:38:19",
+    "text": "Questão:, 4, Resposta:, (A), x=30, Correto, Concluída"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:38:36",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:39:38",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:40:01",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:40:16",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:41:07",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:41:07",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:41:12",
+    "text": "Aceitou usar o tutor para identificar o erro"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:41:12",
+    "text": "O Tutor está criando as questões."
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:41:12",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:41:12",
+    "text": "Formato: questão objetiva."
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:41:12",
+    "text": "Questão:, 1, Passo atual:, x = (700 * 1.5) - (40 * 4)"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:41:24",
+    "text": "Questão:, 1, Resposta:, (A), x=895, Incorreta, possível erro:, Erro na operação"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:41:30",
+    "text": "Questão:, 1, Resposta:, (C), x=-890, Incorreta, possível erro:, Troca de operador"
+  },
+  {
+    "codigo": "1703100771392-8930",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:41:35",
+    "text": "Questão:, 1, Resposta:, (D), x=890, Correto, Concluída"
+  },
+  {
+    "codigo": "1703101303129-6257",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:41:43",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703098094154-7053",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:43:15",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703098094154-7053",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:43:15",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703098094154-7053",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:44:07",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703098094154-7053",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:44:07",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703098094154-7053",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:44:09",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703098094154-7053",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:44:09",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703098094154-7053",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:44:51",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703098094154-7053",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:46:15",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703098094154-7053",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:46:49",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703098094154-7053",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:47:44",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703098094154-7053",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:48:23",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703101715635-7004",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 16:48:35",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703102564968-8466",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:02:44",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703102879996-5915",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:07:59",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703102904542-1693",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:08:24",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703102879996-5915",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:08:41",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703102879996-5915",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:08:42",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703102879996-5915",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:08:59",
+    "text": "Aceitou usar o tutor para identificar o erro"
+  },
+  {
+    "codigo": "1703102879996-5915",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:08:59",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703102879996-5915",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:08:59",
+    "text": "O Tutor está criando as questões."
+  },
+  {
+    "codigo": "1703102879996-5915",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:08:59",
+    "text": "Formato: questão objetiva."
+  },
+  {
+    "codigo": "1703102879996-5915",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:08:59",
+    "text": "Questão:, 1, Passo atual:, (x + 3x + 2x) / 2 = 110"
+  },
+  {
+    "codigo": "1703102904542-1693",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:09:20",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703102904542-1693",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:09:20",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703102904542-1693",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:09:27",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703102904542-1693",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:09:27",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703102904542-1693",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:09:29",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703102904542-1693",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:09:29",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703102993797-8160",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:09:53",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703102879996-5915",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:09:59",
+    "text": "Questão:, 1, Resposta:, (E), 3x=110, Correto, Em andamento"
+  },
+  {
+    "codigo": "1703102879996-5915",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:09:59",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703102879996-5915",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:09:59",
+    "text": "Formato certo ou errado."
+  },
+  {
+    "codigo": "1703102879996-5915",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:09:59",
+    "text": "Questão:, 2, Passo atual:, 3x=110"
+  },
+  {
+    "codigo": "1703102879996-5915",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:10:06",
+    "text": "Questão:, 2, Resposta:, (CERTO), (3x)/3=110*3, Incorreta, possível erro:, Troca de operador"
+  },
+  {
+    "codigo": "1703102879996-5915",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:10:09",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703102879996-5915",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:10:09",
+    "text": "Questão:, 2, Passo atual:, 3x=110"
+  },
+  {
+    "codigo": "1703102879996-5915",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:10:09",
+    "text": "Formato: questão objetiva."
+  },
+  {
+    "codigo": "1703102879996-5915",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:10:34",
+    "text": "Questão:, 2, Resposta:, (C), (3x)/3=110/3, Correto, Em andamento"
+  },
+  {
+    "codigo": "1703102879996-5915",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:10:34",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703102879996-5915",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:10:34",
+    "text": "Questão:, 3, Passo atual:, (3x)/3=110/3"
+  },
+  {
+    "codigo": "1703102879996-5915",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:10:34",
+    "text": "Formato certo ou errado."
+  },
+  {
+    "codigo": "1703103039651-5776",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:10:39",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703102879996-5915",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:11:12",
+    "text": "Questão:, 3, Resposta: (ERRADO) x=110/-3 Correto. Em andamento"
+  },
+  {
+    "codigo": "1703102879996-5915",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:11:15",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703102879996-5915",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:11:15",
+    "text": "Formato: questão objetiva."
+  },
+  {
+    "codigo": "1703102879996-5915",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:11:15",
+    "text": "Questão:, 3, Passo atual:, (3x)/3=110/3"
+  },
+  {
+    "codigo": "1703102879996-5915",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:11:25",
+    "text": "Questão:, 3, Resposta:, (C), x=110/3, Correto, Em andamento"
+  },
+  {
+    "codigo": "1703102879996-5915",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:11:25",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703102879996-5915",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:11:25",
+    "text": "Formato: questão objetiva."
+  },
+  {
+    "codigo": "1703102879996-5915",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:11:25",
+    "text": "Questão:, 4, Passo atual:, x=110/3"
+  },
+  {
+    "codigo": "1703102879996-5915",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:11:49",
+    "text": "Questão:, 4, Resposta:, (B), x=36.67, Correto, Concluída"
+  },
+  {
+    "codigo": "1703103176349-6845",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:12:56",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703103179383-7612",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:12:59",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703103176349-6845",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:13:16",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703103176349-6845",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:13:40",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703103176349-6845",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:14:04",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703103273955-7111",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:14:33",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703103176349-6845",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:14:37",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703103273955-7111",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:15:02",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703103273955-7111",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:16:14",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703103176349-6845",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:16:45",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703103176349-6845",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:16:46",
+    "text": "Possível erro identificado no passo:, 2, como:, (3x) / 3 = 111/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703103176349-6845",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:16:46",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703103176349-6845",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:16:46",
+    "text": "Possível erro identificado no passo:, 3, como:, x = 111/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703103176349-6845",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:16:46",
+    "text": "Possível erro identificado no passo:, 1, como:, 3x = 111, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703103176349-6845",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:17:10",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703103176349-6845",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:17:10",
+    "text": "Possível erro identificado no passo:, 1, como:, 3x = 108, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703103176349-6845",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:17:10",
+    "text": "Possível erro identificado no passo:, 2, como:, (3x) / 3 = 108/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703103176349-6845",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:17:10",
+    "text": "Possível erro identificado no passo:, 3, como:, x = 108/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703103176349-6845",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:17:10",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703103176349-6845",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:17:32",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703103273955-7111",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:17:32",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703103273955-7111",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:17:33",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703103273955-7111",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:17:43",
+    "text": "Aceitou usar o tutor para identificar o erro"
+  },
+  {
+    "codigo": "1703103273955-7111",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:17:43",
+    "text": "O Tutor está criando as questões."
+  },
+  {
+    "codigo": "1703103273955-7111",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:17:43",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703103273955-7111",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:17:43",
+    "text": "Questão:, 1, Passo atual:, x = (500 * 1.5) - (20 * 5)"
+  },
+  {
+    "codigo": "1703103273955-7111",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:17:43",
+    "text": "Formato: questão objetiva."
+  },
+  {
+    "codigo": "1703103176349-6845",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:17:56",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703103273955-7111",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:18:41",
+    "text": "Questão:, 1, Resposta:, (B), x=650, Correto, Concluída"
+  },
+  {
+    "codigo": "1703103176349-6845",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:19:11",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703103176349-6845",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:19:32",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703103273955-7111",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:20:03",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703103176349-6845",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:20:12",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703103176349-6845",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:21:02",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703103273955-7111",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:21:04",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703103671194-2415",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:21:11",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703103273955-7111",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:21:26",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703103671194-2415",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:21:36",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703103671194-2415",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:22:05",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703103671194-2415",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:22:23",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703103671194-2415",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:22:35",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703103671194-2415",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:22:54",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703103671194-2415",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:23:08",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703103273955-7111",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:23:18",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703103671194-2415",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:23:42",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703103273955-7111",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:23:46",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703103671194-2415",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:24:13",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703103671194-2415",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:24:13",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703103273955-7111",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:24:15",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703103273955-7111",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:24:40",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703103889929-9718",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:24:49",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703103671194-2415",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:25:25",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703103671194-2415",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:25:25",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703103671194-2415",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:25:27",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703103671194-2415",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:25:27",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703103947186-5714",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:25:47",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703103671194-2415",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:26:16",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703103671194-2415",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:26:16",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703103947186-5714",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:26:55",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703103947186-5714",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:27:37",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703103947186-5714",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:30:10",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703103947186-5714",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:30:10",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703103947186-5714",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:30:54",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703103947186-5714",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:34:50",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703103947186-5714",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:34:51",
+    "text": "Possível erro identificado no passo:, 1, como:, 3x = 99, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703103947186-5714",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:34:51",
+    "text": "Possível erro identificado no passo:, 2, como:, (3x) / 3 = 99/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703103947186-5714",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:34:51",
+    "text": "Possível erro identificado no passo:, 3, como:, x = 99/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703103947186-5714",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:34:51",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703104562993-792",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:36:02",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703104566155-9090",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 17:36:06",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703107230320-6665",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:20:30",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703107230320-6665",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:26:45",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703107230320-6665",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:26:48",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703107642208-8227",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:27:22",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703107642208-8227",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:27:27",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703107642208-8227",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:27:27",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703107667477-9393",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:27:47",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703107667477-9393",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:29:32",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703107667477-9393",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:30:15",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703107667477-9393",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:30:55",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703107667477-9393",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:31:33",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703108145527-3974",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023 18:35:45",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703107667477-9393",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:36:20",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703107667477-9393",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:36:20",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108145527-3974",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023 18:36:51",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703108145527-3974",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023 18:37:56",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703108145527-3974",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023 18:37:57",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108145527-3974",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023 18:38:23",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703108145527-3974",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023 18:38:23",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703107667477-9393",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:38:32",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703107667477-9393",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:38:32",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108145527-3974",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023 18:38:34",
+    "text": "O Tutor está criando as questões."
+  },
+  {
+    "codigo": "1703108145527-3974",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023 18:38:34",
+    "text": "Aceitou usar o tutor para identificar o erro"
+  },
+  {
+    "codigo": "1703108145527-3974",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023 18:38:34",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703108145527-3974",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023 18:38:34",
+    "text": "Formato: questão objetiva."
+  },
+  {
+    "codigo": "1703108145527-3974",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023 18:38:34",
+    "text": "Questão:, 1, Passo atual:, (x + 3x + 2x) / 2 = 120"
+  },
+  {
+    "codigo": "1703107667477-9393",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:38:39",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703107667477-9393",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:38:39",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108145527-3974",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023 18:41:56",
+    "text": "Questão:, 1, Resposta:, (D), 3x=120, Correto, Em andamento"
+  },
+  {
+    "codigo": "1703108145527-3974",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023 18:41:56",
+    "text": "Formato certo ou errado."
+  },
+  {
+    "codigo": "1703108145527-3974",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023 18:41:56",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703108145527-3974",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023 18:41:56",
+    "text": "Questão:, 2, Passo atual:, 3x=120"
+  },
+  {
+    "codigo": "1703108145527-3974",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023 18:42:21",
+    "text": "Questão:, 2, Resposta: (ERRADO) (3x)/3=125/3 Correto. Em andamento"
+  },
+  {
+    "codigo": "1703108145527-3974",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023 18:42:24",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703108145527-3974",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023 18:42:24",
+    "text": "Formato: questão objetiva."
+  },
+  {
+    "codigo": "1703108145527-3974",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023 18:42:24",
+    "text": "Questão:, 2, Passo atual:, 3x=120"
+  },
+  {
+    "codigo": "1703107667477-9393",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:42:30",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703107667477-9393",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:42:30",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703107667477-9393",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:42:37",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703107667477-9393",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:42:37",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703107667477-9393",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:42:37",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703107667477-9393",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:42:37",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703107667477-9393",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:42:37",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703107667477-9393",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:42:37",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:42:42",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703108145527-3974",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023 18:42:46",
+    "text": "Questão:, 2, Resposta:, (D), (3x)/3=-120/3, Incorreta, possível erro:, Troca de operador"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:43:00",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703108145527-3974",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023 18:43:04",
+    "text": "Questão:, 2, Resposta:, (A), (3x)/3=120/3, Correto, Em andamento"
+  },
+  {
+    "codigo": "1703108145527-3974",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023 18:43:04",
+    "text": "Formato: questão objetiva."
+  },
+  {
+    "codigo": "1703108145527-3974",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023 18:43:04",
+    "text": "Questão:, 3, Passo atual:, (3x)/3=120/3"
+  },
+  {
+    "codigo": "1703108145527-3974",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023 18:43:04",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703108145527-3974",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023 18:44:34",
+    "text": "Questão:, 3, Resposta:, (E), x=120/3, Correto, Em andamento"
+  },
+  {
+    "codigo": "1703108145527-3974",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023 18:44:34",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703108145527-3974",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023 18:44:34",
+    "text": "Formato: questão objetiva."
+  },
+  {
+    "codigo": "1703108145527-3974",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023 18:44:34",
+    "text": "Questão:, 4, Passo atual:, x=120/3"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:44:40",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:45:08",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703108145527-3974",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023 18:45:14",
+    "text": "Questão:, 4, Resposta:, (C), x=40, Correto, Concluída"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:45:32",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:45:53",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:45:53",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:46:09",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:46:09",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:46:15",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:46:15",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:46:16",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:46:16",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:46:16",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:46:17",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:46:35",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:47:44",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:48:12",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:48:12",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:48:18",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:48:18",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:48:37",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:49:52",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 18:50:46",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:00:34",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:00:35",
+    "text": "Possível erro identificado no passo:, 2, como:, (5x) / 3 = 110/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:00:35",
+    "text": "Possível erro identificado no passo:, 1, como:, 5x = 110, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:00:35",
+    "text": "Possível erro identificado no passo:, 3, como:, x = 110/5, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:00:35",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:00:35",
+    "text": "Possível erro identificado no passo:, 2, como:, (3x) / 3 = 110/5, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:00:42",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:00:43",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:00:50",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:00:50",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:00:58",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:00:59",
+    "text": "Possível erro identificado no passo:, 2, como:, (5x) / 3 = 110/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:00:59",
+    "text": "Possível erro identificado no passo:, 1, como:, 5x = 110, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:00:59",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:00:59",
+    "text": "Possível erro identificado no passo:, 3, como:, x = 110/5, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:00:59",
+    "text": "Possível erro identificado no passo:, 2, como:, (3x) / 3 = 110/5, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:01:07",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:01:07",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:01:13",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:01:14",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:01:23",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:01:23",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:01:35",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:01:36",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:01:54",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:01:55",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:02:04",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:02:04",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:02:17",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:02:17",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:02:29",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:02:30",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:02:42",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:02:43",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:02:58",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:02:58",
+    "text": "Possível erro identificado no passo:, 2, como:, (3x) / 3 = 105/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:02:58",
+    "text": "Possível erro identificado no passo:, 1, como:, 3x = 105, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:02:58",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:02:58",
+    "text": "Possível erro identificado no passo:, 3, como:, x = 105/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:03:09",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:03:09",
+    "text": "Possível erro identificado no passo:, 2, como:, (3x) / 3 = 108/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:03:09",
+    "text": "Possível erro identificado no passo:, 1, como:, 3x = 108, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:03:10",
+    "text": "Possível erro identificado no passo:, 3, como:, x = 108/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:03:10",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:03:27",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:03:28",
+    "text": "Possível erro identificado no passo:, 1, como:, 3x = 111, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:03:28",
+    "text": "Possível erro identificado no passo:, 2, como:, (3x) / 3 = 111/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:03:28",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:03:28",
+    "text": "Possível erro identificado no passo:, 3, como:, x = 111/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:03:38",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:03:39",
+    "text": "Possível erro identificado no passo:, 1, como:, 3x = 114, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:03:39",
+    "text": "Possível erro identificado no passo:, 2, como:, (3x) / 3 = 114/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:03:39",
+    "text": "Possível erro identificado no passo:, 3, como:, x = 114/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:03:39",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:03:49",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:03:50",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:04:07",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:04:08",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:04:24",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:04:24",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:04:44",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:04:44",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:05:03",
+    "text": "O Tutor está criando as questões."
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:05:03",
+    "text": "Formato: questão objetiva."
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:05:03",
+    "text": "Aceitou usar o tutor para identificar o erro"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:05:03",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:05:03",
+    "text": "Questão:, 1, Passo atual:, (x + 3x + 2x) / 2 = 110"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:06:08",
+    "text": "Questão:, 1, Resposta:, (A), 3x=110, Correto, Em andamento"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:06:08",
+    "text": "Questão:, 2, Passo atual:, 3x=110"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:06:08",
+    "text": "Formato: questão objetiva."
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:06:08",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:06:55",
+    "text": "Questão:, 2, Resposta:, (C), (3x)/3=110/3, Correto, Em andamento"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:06:55",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:06:55",
+    "text": "Formato: questão objetiva."
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:06:55",
+    "text": "Questão:, 3, Passo atual:, (3x)/3=110/3"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:07:23",
+    "text": "Questão:, 3, Resposta:, (A), x=110/3, Correto, Em andamento"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:07:23",
+    "text": "Questão:, 4, Passo atual:, x=110/3"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:07:23",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:07:23",
+    "text": "Formato certo ou errado."
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:07:50",
+    "text": "Questão:, 4, Resposta: (ERRADO) x=41.67 Correto. Em andamento"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:07:53",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:07:53",
+    "text": "Formato: questão objetiva."
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:07:53",
+    "text": "Questão:, 4, Passo atual:, x=110/3"
+  },
+  {
+    "codigo": "1703108562847-252",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:08:13",
+    "text": "Questão:, 4, Resposta:, (B), x=36.67, Correto, Concluída"
+  },
+  {
+    "codigo": "1703110827587-7715",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:20:27",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703111833934-3612",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:37:13",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703112581571-7070",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 19:49:41",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703113458768-8028",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:04:18",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703113458768-8028",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:05:22",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703113458768-8028",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:05:27",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703113547339-2766",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:05:47",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703113547339-2766",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:06:07",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703113547339-2766",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:06:09",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703113547339-2766",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:07:19",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703113547339-2766",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:07:20",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703113547339-2766",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:08:23",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703113547339-2766",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:08:23",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703113547339-2766",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:08:41",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703113547339-2766",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:08:42",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703115412667-6119",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:36:52",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:39:26",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:40:28",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:40:28",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:40:49",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:40:52",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:41:37",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:41:39",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:42:16",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:42:50",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:42:54",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:43:35",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:50:36",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:50:37",
+    "text": "Possível erro identificado no passo:, 1, como:, 3x = 105, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:50:37",
+    "text": "Possível erro identificado no passo:, 2, como:, (3x) / 3 = 105/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:50:37",
+    "text": "Possível erro identificado no passo:, 3, como:, x = 105/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:50:37",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:51:35",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:51:35",
+    "text": "Possível erro identificado no passo:, 1, como:, 3x = 108, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:51:35",
+    "text": "Possível erro identificado no passo:, 2, como:, (3x) / 3 = 108/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:51:35",
+    "text": "Possível erro identificado no passo:, 3, como:, x = 108/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:51:35",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:54:45",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:54:46",
+    "text": "Possível erro identificado no passo:, 1, como:, 3x = 114, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:54:46",
+    "text": "Possível erro identificado no passo:, 2, como:, (3x) / 3 = 114/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:54:46",
+    "text": "Possível erro identificado no passo:, 3, como:, x = 114/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:54:46",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:54:53",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:54:53",
+    "text": "Possível erro identificado no passo:, 1, como:, 3x = 111, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:54:53",
+    "text": "Possível erro identificado no passo:, 2, como:, (3x) / 3 = 111/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:54:53",
+    "text": "Possível erro identificado no passo:, 3, como:, x = 111/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:54:53",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:55:03",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:55:04",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:55:09",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:55:10",
+    "text": "Possível erro identificado no passo:, 1, como:, 3x = 108, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:55:10",
+    "text": "Possível erro identificado no passo:, 2, como:, (3x) / 3 = 108/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:55:10",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:55:10",
+    "text": "Possível erro identificado no passo:, 3, como:, x = 108/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:55:44",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:55:45",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:55:49",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:55:50",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:55:55",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:55:56",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:56:11",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:56:11",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:57:47",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:57:48",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:57:52",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 20:57:52",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:00:25",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:00:25",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:00:28",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:00:29",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:00:34",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:00:35",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:00:45",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:00:45",
+    "text": "Possível erro identificado no passo:, 1, como:, 3x = 111, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:00:45",
+    "text": "Possível erro identificado no passo:, 2, como:, (3x) / 3 = 111/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:00:45",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:00:45",
+    "text": "Possível erro identificado no passo:, 3, como:, x = 111/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:03:08",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703115566204-6783",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:03:08",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703115412667-6119",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:05:47",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703115412667-6119",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:05:47",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703115412667-6119",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:06:40",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703117215432-8784",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023 21:06:55",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703115412667-6119",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:06:55",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703117251328-3127",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:07:31",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703115412667-6119",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:07:35",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703115412667-6119",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:08:03",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703115412667-6119",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:08:24",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703115412667-6119",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:08:52",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703115412667-6119",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:09:29",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703115412667-6119",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:09:47",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703115412667-6119",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:10:05",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703115412667-6119",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:10:26",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703117436075-3795",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:10:36",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703117436075-3795",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:11:10",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703117436075-3795",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:11:25",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703117436075-3795",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:11:41",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703117436075-3795",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:11:55",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703117436075-3795",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:12:43",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703117436075-3795",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:12:43",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703117436075-3795",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:13:13",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703117436075-3795",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:13:40",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703117436075-3795",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:14:47",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703117436075-3795",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:16:08",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703117436075-3795",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:16:08",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703117436075-3795",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:16:16",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703117436075-3795",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:16:16",
+    "text": "Possível erro identificado no passo:, 1, como:, x = 1/4, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703117436075-3795",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:16:16",
+    "text": "Possível erro identificado no passo:, 1, como:, x = 2/4, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703117436075-3795",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:16:16",
+    "text": "Possível erro identificado no passo:, 1, como:, x = 4/4, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703117436075-3795",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:16:16",
+    "text": "Possível erro identificado no passo:, 1, como:, x = 5/5, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703117436075-3795",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:16:16",
+    "text": "Possível erro identificado no passo:, 1, como:, x = 5/0, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703117436075-3795",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:16:16",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703117436075-3795",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:16:17",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703117436075-3795",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:16:17",
+    "text": "Possível erro identificado no passo:, 1, como:, x = 1/4, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703117436075-3795",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:16:17",
+    "text": "Possível erro identificado no passo:, 1, como:, x = 5/0, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703117436075-3795",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:16:17",
+    "text": "Possível erro identificado no passo:, 1, como:, x = 2/4, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703117436075-3795",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:16:17",
+    "text": "Possível erro identificado no passo:, 1, como:, x = 4/4, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703117436075-3795",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:16:17",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703117436075-3795",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:16:17",
+    "text": "Possível erro identificado no passo:, 1, como:, x = 5/5, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703117436075-3795",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:17:26",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703117436075-3795",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:17:27",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703117436075-3795",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:18:11",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703117436075-3795",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:18:11",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703117436075-3795",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:18:52",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703117436075-3795",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 21:18:52",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703122035536-4322",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 22:27:15",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703122035536-4322",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 22:28:41",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703122035536-4322",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 22:29:49",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703122035536-4322",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 22:30:19",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703122035536-4322",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 22:30:19",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703122035536-4322",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 22:32:37",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703122035536-4322",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 22:32:37",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703122035536-4322",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 22:32:41",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703122035536-4322",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 22:32:41",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703122035536-4322",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 22:34:04",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703122035536-4322",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 22:34:05",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703122035536-4322",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 22:34:48",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703122035536-4322",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 22:34:48",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703122497288-7465",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 22:34:57",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703122497288-7465",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 22:35:17",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703122497288-7465",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 22:36:23",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703122497288-7465",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 22:37:02",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703122497288-7465",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 22:38:31",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703122497288-7465",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 22:38:49",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703123861081-5195",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 22:57:41",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703123861081-5195",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 22:58:20",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703123861081-5195",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 22:59:22",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703123861081-5195",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 23:00:50",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703123861081-5195",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 23:00:50",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703123861081-5195",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 23:01:02",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703123861081-5195",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 23:01:02",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703123861081-5195",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 23:01:43",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703123861081-5195",
+    "ip": "172.31.44.75",
+    "dateTime": "20/12/2023, 23:01:43",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703151695276-2566",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 06:41:35",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703153508438-4908",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 07:11:48",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703153508438-4908",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 07:13:19",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703153508438-4908",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 07:14:00",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703153508438-4908",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 07:14:03",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703153508438-4908",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 07:14:54",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703153508438-4908",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 07:14:54",
+    "text": "Possível erro identificado no passo:, 1, como:, x = 2/4, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703153508438-4908",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 07:14:54",
+    "text": "Possível erro identificado no passo:, 1, como:, x = 8/4, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703153508438-4908",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 07:14:54",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703153508438-4908",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 07:15:41",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703153508438-4908",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 07:15:41",
+    "text": "Possível erro identificado no passo:, 1, como:, x = 2/4, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703153508438-4908",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 07:15:41",
+    "text": "Possível erro identificado no passo:, 1, como:, x = 8/4, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703153508438-4908",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 07:15:41",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703153508438-4908",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 07:16:52",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703153508438-4908",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 07:16:52",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703153508438-4908",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 07:17:09",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703153508438-4908",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 07:17:09",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703153508438-4908",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 07:17:12",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703153508438-4908",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 07:17:12",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703153508438-4908",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 07:17:15",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703153508438-4908",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 07:17:15",
+    "text": "Possível erro identificado no passo:, 1, como:, x = 2/4, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703153508438-4908",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 07:17:15",
+    "text": "Possível erro identificado no passo:, 1, como:, x = 8/4, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703153508438-4908",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 07:17:15",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703156462210-9381",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 08:01:02",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703156462210-9381",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 08:02:16",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703156462210-9381",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 08:03:39",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703156462210-9381",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 08:03:39",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703156462210-9381",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 08:04:19",
+    "text": "Não aceitou usar o tutor para identificar o erro"
+  },
+  {
+    "codigo": "1703174201120-7334",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 12:56:41",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:49:51",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:50:28",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:51:37",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:51:59",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:52:19",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:52:37",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:52:53",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:53:26",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:54:48",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:54:48",
+    "text": "Possível erro identificado no passo:, 2, como:, x =2.66, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:54:48",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:55:15",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:55:15",
+    "text": "Possível erro identificado no passo:, 2, como:, x =2.66, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:55:15",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:55:19",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:55:19",
+    "text": "Possível erro identificado no passo:, 2, como:, x =2.66, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:55:19",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:55:34",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:55:35",
+    "text": "Possível erro identificado no passo:, 1, como:, x = 3/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:55:35",
+    "text": "Possível erro identificado no passo:, 1, como:, x = 9/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:55:35",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Possível erro identificado no passo:, 1, como:, x=-8/3, motivo:, Troca de operador"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Possível erro identificado no passo:, 1, como:, x = 8/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Possível erro identificado no passo:, 1, como:, x = 4/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Possível erro identificado no passo:, 1, como:, x = 5/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Possível erro identificado no passo:, 1, como:, x = 7/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Possível erro identificado no passo:, 1, como:, x = 10/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Possível erro identificado no passo:, 1, como:, x = 11/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Possível erro identificado no passo:, 1, como:, x = 13/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Possível erro identificado no passo:, 1, como:, x = 8/7, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Possível erro identificado no passo:, 1, como:, x = 8/5, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Possível erro identificado no passo:, 2, como:, x =-3.67, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Possível erro identificado no passo:, 2, como:, x =-2.67, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Possível erro identificado no passo:, 2, como:, x =2.67, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Possível erro identificado no passo:, 2, como:, x =-1.67, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Possível erro identificado no passo:, 2, como:, x =0.67, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Possível erro identificado no passo:, 2, como:, x =1.67, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Possível erro identificado no passo:, 2, como:, x =3.67, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Possível erro identificado no passo:, 2, como:, x =4.67, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Possível erro identificado no passo:, 2, como:, x =5.67, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Possível erro identificado no passo:, 2, como:, x =6.67, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Possível erro identificado no passo:, 2, como:, x =7.67, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Possível erro identificado no passo:, 2, como:, x =2.62, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Possível erro identificado no passo:, 2, como:, x =2.64, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Possível erro identificado no passo:, 2, como:, x =2.63, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Possível erro identificado no passo:, 2, como:, x =2.65, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Possível erro identificado no passo:, 2, como:, x =2.66, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Possível erro identificado no passo:, 2, como:, x =2.68, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Possível erro identificado no passo:, 2, como:, x =2.69, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Possível erro identificado no passo:, 2, como:, x =2.70, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Possível erro identificado no passo:, 2, como:, x =2.71, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Possível erro identificado no passo:, 2, como:, x =2.72, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:01",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:10",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:11",
+    "text": "Possível erro identificado no passo:, 2, como:, x =2.66, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:11",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:33",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:33",
+    "text": "Possível erro identificado no passo:, 1, como:, x = 3/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:33",
+    "text": "Possível erro identificado no passo:, 1, como:, x = 9/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:33",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:56:43",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:57:13",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703184591628-3949",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:58:44",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703185132801-9065",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 15:58:52",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703189670567-1223",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 17:14:30",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703190136942-7230",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 17:22:16",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703209899744-4903",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 22:51:39",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703209899744-4903",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 22:54:26",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703209899744-4903",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 22:56:22",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703209899744-4903",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 22:56:54",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703209899744-4903",
+    "ip": "172.31.44.75",
+    "dateTime": "21/12/2023, 22:58:01",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703248638010-5269",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 09:37:18",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703248653490-402",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 09:37:33",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703248653490-402",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 09:38:22",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703248653490-402",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 09:39:52",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703248653490-402",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 09:39:52",
+    "text": "Possível erro identificado no passo:, 2, como:, (3x) / 3 = 96/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703248653490-402",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 09:39:52",
+    "text": "Possível erro identificado no passo:, 1, como:, 3x = 96, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703248653490-402",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 09:39:52",
+    "text": "Possível erro identificado no passo:, 3, como:, x = 96/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703248653490-402",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 09:39:52",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703248878752-6145",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 09:41:18",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703248878752-6145",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 09:42:25",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703248878752-6145",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 09:42:51",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703248878752-6145",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 09:43:27",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703248878752-6145",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 09:43:28",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703248878752-6145",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 09:43:37",
+    "text": "Aceitou usar o tutor para identificar o erro"
+  },
+  {
+    "codigo": "1703248878752-6145",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 09:43:37",
+    "text": "O Tutor está criando as questões."
+  },
+  {
+    "codigo": "1703248878752-6145",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 09:43:37",
+    "text": "Formato: questão objetiva."
+  },
+  {
+    "codigo": "1703248878752-6145",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 09:43:37",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703248878752-6145",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 09:43:37",
+    "text": "Questão:, 1, Passo atual:, x = (90 * 4) - (75 * 4)"
+  },
+  {
+    "codigo": "1703248878752-6145",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 09:44:07",
+    "text": "Questão:, 1, Resposta:, (C), x=60, Correto, Concluída"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:28:43",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:29:48",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:32:21",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:32:22",
+    "text": "Possível erro identificado no passo:, 1, como:, 25 = x + 16, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:32:22",
+    "text": "Possível erro identificado no passo:, 1, como:, 27 = x + 18, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:32:22",
+    "text": "Possível erro identificado no passo:, 2, como:, x + 18 = 27, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:32:22",
+    "text": "Possível erro identificado no passo:, 2, como:, x + 16 = 25, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:32:22",
+    "text": "Possível erro identificado no passo:, 3, como:, (x + 18) - 16 = 27 - 16, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:32:22",
+    "text": "Possível erro identificado no passo:, 3, como:, (x + 16) - 14 = 27 - 16, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:32:22",
+    "text": "Possível erro identificado no passo:, 3, como:, (x + 16) - 16 = 25 - 16, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:32:22",
+    "text": "Possível erro identificado no passo:, 3, como:, (x + 16) - 16 = 27 - 18, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:32:22",
+    "text": "Possível erro identificado no passo:, 4, como:, x = 27 - 18, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:32:22",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:32:22",
+    "text": "Possível erro identificado no passo:, 5, como:, x = 9, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:32:22",
+    "text": "Possível erro identificado no passo:, 4, como:, x = 25 - 16, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:33:28",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:34:31",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:35:07",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:36:02",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:36:02",
+    "text": "Possível erro identificado no passo:, 1, como:, x = 3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:36:02",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:36:18",
+    "text": "Aceitou usar o tutor para identificar o erro"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:36:18",
+    "text": "O Tutor está criando as questões."
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:36:18",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:36:18",
+    "text": "Formato: questão objetiva."
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:36:18",
+    "text": "Questão:, 1, Passo atual:, x = 8/4"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:37:03",
+    "text": "Questão:, 1, Resposta:, (B), x=2, Correto, Concluída"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:37:51",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:38:28",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:38:49",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:38:50",
+    "text": "Possível erro identificado no passo:, 2, como:, (3x) / 4 = 90/3, motivo:, Erro na operação"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:38:50",
+    "text": "Tutor conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:38:54",
+    "text": "O Tutor está criando as questões."
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:38:54",
+    "text": "Aceitou usar o tutor para identificar o erro"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:38:54",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:38:54",
+    "text": "Formato certo ou errado."
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:38:54",
+    "text": "Questão:, 0, Passo atual:, (x + 3x + 2x) / 2 = 90"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:38:59",
+    "text": "Questão:, 1, Resposta:, (CERTO), 3x=90, Correto, Em andamento"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:39:02",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:39:02",
+    "text": "Questão:, 2, Passo atual:, 3x=90"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:39:02",
+    "text": "Formato certo ou errado."
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:39:30",
+    "text": "Resposta correta. Reiniciando tutor"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:39:53",
+    "text": "Resposta incorreta. Identificando causas do erro"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:39:53",
+    "text": "Tutor não conseguiu indentificar automaticamente mas quer fazer passo-a-passo"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:40:07",
+    "text": "Aceitou usar o tutor para identificar o erro"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:40:07",
+    "text": "O Tutor está criando as questões."
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:40:07",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:40:07",
+    "text": "Formato certo ou errado."
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:40:07",
+    "text": "Questão:, 0, Passo atual:, x = (500 / (2 * 10)) * 4"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:40:19",
+    "text": "Questão:, 1, Resposta: (ERRADO) x=103 Correto. Em andamento"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:40:22",
+    "text": "Formato certo ou errado."
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:40:22",
+    "text": "Questão:, 0, Passo atual:, x = (500 / (2 * 10)) * 4"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:40:22",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:40:27",
+    "text": "Questão:, 1, Resposta:, (CERTO), x=105, Incorreta, possível erro:, Erro na operação"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:40:30",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:40:30",
+    "text": "Formato certo ou errado."
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:40:30",
+    "text": "Questão:, 0, Passo atual:, x = (500 / (2 * 10)) * 4"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:40:36",
+    "text": "Questão:, 1, Resposta:, (CERTO), x=-100, Incorreta, possível erro:, Troca de operador"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:40:39",
+    "text": "O Tutor está gerando os distratores."
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:40:39",
+    "text": "Formato certo ou errado."
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:40:39",
+    "text": "Questão:, 0, Passo atual:, x = (500 / (2 * 10)) * 4"
+  },
+  {
+    "codigo": "1703287723686-9426",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:40:43",
+    "text": "Questão:, 1, Resposta:, (CERTO), x=100, Correto, Concluída"
+  },
+  {
+    "codigo": "1703288452728-7894",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 20:40:52",
+    "text": "Iniciou o tutor."
+  },
+  {
+    "codigo": "1703292243161-9146",
+    "ip": "172.31.44.75",
+    "dateTime": "22/12/2023, 21:44:03",
+    "text": "Iniciou o tutor."
   }
 ]
